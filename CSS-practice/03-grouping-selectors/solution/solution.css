@@ -1,0 +1,11 @@
+.para{
+    background-color: #000000;
+    color: #ffffff;
+}
+.graph{
+    background-color: #ffff00;
+}
+para,graph{
+    font-size: 28px;
+    font-style: 'Helvetica, Times New Roman', sans-serif;
+}
